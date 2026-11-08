@@ -1,5 +1,14 @@
-# Pieck
+# Efteling-lettertypes
 
-A typeface based on the lettering of Anton Pieck for The Efteling has been floating around on the internet for years now. Alternative characters were mapped to random unrelated characters, and some of the glyphs had overlapping geometry.
+Dit repository bevat twee lettertypes:
 
-This is an attempt to clean up this typeface, and eventually expand it. All aid is welcome.
+- **Pieckfijn**: Een uitbreiding en opschoning van het reeds bestaande lettertype dat op het internet rondzwerft.
+- **Clubsymbolen**: Een nieuw lettertype op basis van de [Efteling Clubgeheimtaal](https://www.eftepedia.nl/lemma/Efteling_Clubgeheimtaal) of het Symbolicaans schrift.
+
+
+# Efteling Fonts
+
+This repository contains two fonts:
+
+- **Pieckfijn**: An expansion and refinement of an existing font that has been circulating online.
+- **Clubsymbolen**: A new font based on the [Efteling Club Secret Language](https://www.eftepedia.nl/lemma/Efteling_Clubgeheimtaal) or the "Symbolican" script.

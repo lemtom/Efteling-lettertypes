@@ -1,0 +1,11 @@
+StartChar: a
+Encoding: 97 97 26
+Width: 1000
+VWidth: 800
+Flags: W
+HStem: -200.278 32.166<74.1947 189.788> -200.278 60.1387<256.774 482.281> -193.197 61.0684<585.706 807.292>
+LayerCount: 2
+Fore
+Refer: 0 65 N 1 0 0 1 0.00265625 0 2
+Validated: 1
+EndChar
