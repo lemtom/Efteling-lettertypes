@@ -1,4 +1,4 @@
-StartChar: A.002
+StartChar: A.missingserif
 Encoding: 154 -1 91
 Width: 1839
 GlyphClass: 1
@@ -63,5 +63,5 @@ SplineSet
  659 1576 659 1576 768 1720 c 5,77,78
  828 1776 828 1776 872 1776 c 5,0,1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

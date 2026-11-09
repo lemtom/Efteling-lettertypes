@@ -72,6 +72,6 @@ SplineSet
  917 1436 l 1,83,-1
 EndSplineSet
 Validated: 1
-Substitution2: "Flourishes-2" A.003
-Substitution2: "Flourishes-1" A.002
+Substitution2: "'ss02' Style Set 2 in Latin lookup 4-1" A.missingserif
+Substitution2: "'ss01' Style Set 1 in Latin lookup 3-1" A.halfswash
 EndChar

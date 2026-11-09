@@ -68,7 +68,7 @@ SplineSet
  940 1732 l 1,91,-1
  572 1720 l 1,76,-1
 EndSplineSet
-Validated: 524289
-Substitution2: "Flourishes-2" R.003
-Substitution2: "Flourishes-1" R.002
+Validated: 1
+Substitution2: "'ss02' Style Set 2 in Latin lookup 4-1" R.long
+Substitution2: "'ss01' Style Set 1 in Latin lookup 3-1" R.curly
 EndChar

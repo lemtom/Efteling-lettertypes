@@ -1,4 +1,4 @@
-StartChar: L.002
+StartChar: L.long
 Encoding: 152 -1 13
 Width: 1324
 GlyphClass: 1
@@ -52,5 +52,5 @@ SplineSet
  282.75 1592.375 282.75 1592.375 456.5 1878.625 c 5,72,73
  670.25 2133.625 670.25 2133.625 889 2133.625 c 4,0,1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

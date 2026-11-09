@@ -1,4 +1,4 @@
-StartChar: A.003
+StartChar: A.halfswash
 Encoding: 150 -1 7
 Width: 2114
 GlyphClass: 1
@@ -79,5 +79,5 @@ SplineSet
  939 1572 939 1572 1048 1716 c 5,102,103
  1108 1772 1108 1772 1152 1772 c 5,0,1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

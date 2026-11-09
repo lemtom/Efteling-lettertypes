@@ -1,4 +1,4 @@
-StartChar: K.002
+StartChar: K.long
 Encoding: 53 -1 61
 Width: 1686
 GlyphClass: 1
@@ -73,5 +73,5 @@ SplineSet
  928 1116 l 1,99,-1
  837 1016 l 1,0,1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

@@ -6,7 +6,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 35 65 S 1 0 0 1 0 0 2
-Validated: 98305
-Substitution2: "Flourishes-2" A.003
-Substitution2: "Flourishes-1" A.002
+Validated: 32769
+Substitution2: "'ss02' Style Set 2 in Latin lookup 4-1" A.missingserif
+Substitution2: "'ss01' Style Set 1 in Latin lookup 3-1" A.halfswash
 EndChar

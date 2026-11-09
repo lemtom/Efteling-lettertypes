@@ -1,4 +1,4 @@
-StartChar: J.002
+StartChar: J.curly
 Encoding: 149 -1 5
 Width: 1336
 GlyphClass: 1
@@ -53,5 +53,5 @@ SplineSet
  1242.07692308 1773.38461538 1242.07692308 1773.38461538 1242.07692308 1765.68047337 c 0,71,0
  1242.07692308 1740 1242.07692308 1740 1169 1730 c 1,1,2
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
