@@ -1,8 +1,6 @@
 StartChar: space
 Encoding: 32 32 18
-Width: 400
-Flags: W
+Width: 300
+Flags: HW
 LayerCount: 2
-Fore
-Validated: 1
 EndChar

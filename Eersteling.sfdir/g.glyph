@@ -1,7 +1,7 @@
 StartChar: g
 Encoding: 103 103 8
 Width: 486
-Flags: W
+Flags: HW
 HStem: -208.776 39.6741<139.749 220.66> 307.043 21.9019<280.622 347.616> 327 20G<511.791 512.705>
 VStem: 19.9381 75.5462<-122.763 63.0634> 381.496 4.65063<237.956 254.363>
 LayerCount: 2
@@ -39,6 +39,5 @@ SplineSet
  474.048828125 329.049804688 499.716796875 333.086914062 512.705078125 338.025390625 c 6
  536.3125 347 l 5xb8
 EndSplineSet
-Validated: 524289
 Substitution2: "'ss01' Style Set 1 in Latin lookup 0-1" g.curly
 EndChar
