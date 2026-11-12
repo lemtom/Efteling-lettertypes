@@ -1,5 +1,5 @@
 StartChar: bullet
-Encoding: 124 8226 128
+Encoding: 124 8226 127
 Width: 1024
 GlyphClass: 1
 Flags: W
